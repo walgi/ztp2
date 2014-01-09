@@ -1,0 +1,10 @@
+shop_product:
+    resource: "@ShopProductBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+shop_user:
+    resource: "@ShopUserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
